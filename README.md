@@ -15,6 +15,11 @@
   </a>
 </p>
 
+<br>
+
+> ⚠️ **Aviso**: Meu perfil público do GitHub não contém repositórios importantes visíveis.  
+> Todos os projetos que gerencio ou contribuo estão em ambientes privados ou corporativos.
+
 ---
 
 ## ⚙ Soft Skills

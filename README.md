@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Certificações-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://jung.moe" target="_blank">
-    <img src="https://img.shields.io/badge/jung.moe-Link%20central-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111"/>
+    <img src="https://img.shields.io/badge/jung.moe-Link%20Bio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=222222"/>
   </a>
 </p>
 
@@ -42,7 +42,6 @@
 
 <!-- Virtualização -->
 ### 🖥️ Virtualização
-
 <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
 <img src="https://img.shields.io/badge/VirtualBox-2F61B4?style=for-the-badge&logo=virtualbox&logoColor=white"/>
@@ -59,6 +58,8 @@
 ### 🌐 Redes
 <img src="https://img.shields.io/badge/TP‐Link-4ACBD6?style=for-the-badge&logo=tplink&logoColor=white"/>
 <img src="https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white"/>
+<img src="https://img.shields.io/badge/HP-0096D6?style=for-the-badge&logo=hp&logoColor=white"/>
+<img src="https://img.shields.io/badge/3Com-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Mercusys-E40000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Intelbras-10B26F?style=for-the-badge"/>
 <br>
@@ -73,6 +74,7 @@
 ### 🖱️ Terminal e Sistemas Operacionais
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge"/>
 <br>
 <img src="https://img.shields.io/badge/Alpine%20Linux-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white"/>

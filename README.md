@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <strong>Especialista em Infraestrutura, Cloud e Segurança</strong><br/>
+  <strong>Especialista em Infraestrutura, Cloud e Segurança</strong><br>
   Apaixonado por Linux, servidores, redes e automação.
 </p>
 
@@ -28,6 +28,7 @@
 ## ⚙ Soft Skills
 
 <div align="center">
+
 <img src="https://img.shields.io/badge/CLI%20Proficiency-000000?style=for-the-badge&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git%20Workflow-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docs%20&%20Research-007ACC?style=for-the-badge&logo=readthedocs&logoColor=white"/>
@@ -44,6 +45,7 @@
 <div align="center">
 
 <!-- Virtualização -->
+
 ### 🖥️ Virtualização
 <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
@@ -74,6 +76,7 @@
 <br>
 
 <!-- SOs -->
+
 ### 🖱️ Terminal e Sistemas Operacionais
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
@@ -94,6 +97,7 @@
 <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white"/>
 
 <!-- Cloud -->
+
 ### ☁️ Cloud
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge"/>
@@ -109,6 +113,7 @@
 <br>
 
 <!-- Painéis -->
+
 ### 🧰 Painéis e Gerenciamento
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -128,6 +133,7 @@
 <br>
 
 <!-- Ferramentas -->
+
 ### 🛠 Monitoramento
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
@@ -140,6 +146,7 @@
 <br>
 
 <!-- Stacks -->
+
 ### 🔧 Stacks Web e Bancos de Dados
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
@@ -156,6 +163,7 @@
 <br>
 
 <!-- Back-end -->
+
 ### 🐍 Back-end
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -168,6 +176,7 @@
 <br>
 
 <!-- Front-end Avançado -->
+
 ### 💻 Front-end Avançado
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
@@ -179,6 +188,7 @@
 <br>
 
 <!-- Front-end Simples -->
+
 ### 🎨 Front-end Simples
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white"/>

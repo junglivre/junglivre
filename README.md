@@ -1,5 +1,8 @@
-<h2 align="center">👋 Olá! Seja bem-vindo</h2>
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1500&color=008BFF&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Ol%C3%A1%2C+seja+bem-vind%40!;%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4+Eu+sou+o+jung!)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
   <strong>Especialista em Infraestrutura, Cloud e Segurança</strong><br/>
@@ -211,6 +214,11 @@
 ## 😎 Nenhuma call, nenhum pitch. Só infraestrutura em produção.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-online-green?style=for-the-badge&logo=linux&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/status-online-darkgreen?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=008BFF&center=true&vCenter=true&width=435&lines=%F0%9F%95%8A%EF%B8%8F+be+the+change+you+want+to+see+in+the+world;SysAdmin+%7C+Cloud+Management+%7C+Network+Security)](https://git.io/typing-svg)
+
+</div>

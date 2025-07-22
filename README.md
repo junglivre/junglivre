@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1500&color=008BFF&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Ol%C3%A1%2C+seja+bem-vind%40!;%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4+Eu+sou+o+jung!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1500&color=008BFF&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Ol%C3%A1%2C+seja+bem-vind%40!;%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4+Eu+sou+o+jung!)](https://github.com/junglivre)
 
 </div>
 
@@ -228,6 +228,6 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=008BFF&center=true&vCenter=true&width=435&lines=%F0%9F%95%8A%EF%B8%8F+be+the+change+you+want+to+see+in+the+world;SysAdmin+%7C+Cloud+Management+%7C+Network+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=008BFF&center=true&vCenter=true&width=435&lines=%F0%9F%95%8A%EF%B8%8F+be+the+change+you+want+to+see+in+the+world;SysAdmin+%7C+Cloud+Management+%7C+Network+Security)](https://github.com/junglivre)
 
 </div>

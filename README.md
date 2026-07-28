@@ -113,6 +113,6 @@ Este perfil é um recorte do que eu gosto de explorar: **Linux, servidores, rede
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1500&color=008BFF&center=true&vCenter=true&width=435&lines=%F0%9F%95%8A%EF%B8%8F+be+the+change+you+wish+to+see+in+the+world;SysAdmin+%7C+Cloud+Management+%7C+Network+Security)](https://github.com/junglivre)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1500&color=008BFF&center=true&vCenter=true&width=500&lines=%F0%9F%95%8A%EF%B8%8F+be+the+change+you+wish+to+see+in+the+world;SysAdmin+%7C+Cloud+Management+%7C+Network+Engineer)](https://github.com/junglivre)
 
 </div>

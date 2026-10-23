@@ -105,10 +105,16 @@ Este perfil é um recorte do que eu gosto de explorar: **Linux, servidores, rede
 <br>
 
 <a href="https://github.com/junglivre">
-  <img height="250" align="center" src="https://ghs.jung.moe/api?username=junglivre&theme=holi&show=issues,contributions,stars,repositories" />
+  <img width="49%" src="https://gh-prof-summ-cards.vercel.app/api/cards/stats?username=junglivre&theme=holi&animation=sequence&duration=2&title_color=a500ff&border_color=a500ff&icon_color=a500ff&chart_color=a500ff" alt="GitHub stats" />
 </a>
 <a href="https://github.com/junglivre">
-  <img height="250" align="center" src="https://ghs.jung.moe/api/top-langs?username=junglivre&theme=holi" />
+  <img width="49%" src="https://gh-prof-summ-cards.vercel.app/api/cards/repos-per-language?username=junglivre&theme=holi&animation=sequence&duration=2&exclude=Batchfile%2C+HTML&title_color=a500ff&border_color=a500ff&icon_color=a500ff&chart_color=a500ff" alt="Repos per language" />
+</a>
+
+<br>
+
+<a href="https://github.com/junglivre">
+  <img width="98%" src="https://gh-prof-summ-cards.vercel.app/api/cards/profile-details?username=junglivre&theme=holi&animation=sequence&duration=2&show_avatar=true&name=jung+%28%40junglivre%29&title_color=a500ff&border_color=a500ff&icon_color=a500ff&chart_color=a500ff" alt="Profile details" />
 </a>
 
 <br>
